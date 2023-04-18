@@ -1,4 +1,4 @@
-local tab = {
+tab = {
 ['key'] = "hack1337"
 }
 
