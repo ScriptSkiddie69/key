@@ -1,6 +1,5 @@
 tab = {
-  ['key'] = "a",
-  ['lol'] = "hey"
+  key = "a"
   }
 
 return tab
