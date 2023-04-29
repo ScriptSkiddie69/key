@@ -10,4 +10,4 @@ if game:GetService("RbxAnalyticsService"):GetClientId() == "6DBDF301-2C26-4746-1
 tab = {
 ['key'] = getgenv().yes
 }
-return tab
+--return tab
