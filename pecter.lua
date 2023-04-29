@@ -1,7 +1,3 @@
-
-
-tab = {
-['key'] = "r"
-}
-
-return tab
+local tab = {
+  ['key'] = "a"
+  }
