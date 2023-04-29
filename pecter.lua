@@ -1,6 +1,6 @@
 
 
 tab = {
-['key'] = getgenv().yes
+['key'] = "fedoratard"
 }
 --return tab
