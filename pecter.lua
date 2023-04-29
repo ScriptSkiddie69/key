@@ -1,5 +1,5 @@
 tab = {
-  key = "fedoratard"
+['key'] = "fedoratard"
 }
 
 return tab
